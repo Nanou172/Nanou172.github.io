@@ -1,0 +1,42 @@
+h1{
+
+    font-size: 30px;
+    
+    text-align: center;
+    
+    color: #de71b8
+    
+    }
+    
+h2 {  
+    front-size: 15px;
+    
+    text-align: left;
+    
+    color: #8771de
+
+    }
+
+    p{
+    
+    font-size: 20px;
+    
+    text-align: left;
+    
+    font-family: Helvetica, sans-serif;
+    
+    }
+    
+    img {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+      }
+      
+
+    body {
+    
+    background-color :aqua
+    
+    }
